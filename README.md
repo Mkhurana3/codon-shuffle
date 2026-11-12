@@ -12,7 +12,7 @@ This is a reproduction of Haig & Hurst (1991), plus a small follow-up using Alph
 
 I (Manan) got really interested in genetics in Class 12, when we studied how DNA is read in codons and turned into proteins. We learned that the genetic code is "degenerate" (most amino acids have more than one codon) and almost universal, and that a single changed letter can change a protein.
 
-That made me wonder whether the way the code is arranged has a reason, or whether it could just as well have been any other arrangement. When I started learning Python in college, I looked into it and found papers that had tested exactly this. Antara and I then decided to try reproducing their result ourselves, with me working on the biology and her on the code.
+That made me wonder whether the way the code is arranged has a reason, or whether it could just as well have been any other arrangement. When I started learning Python in college, I looked into it and found papers that had tested exactly this. Antara and I then decided to try reproducing their result ourselves, with me working on the biology and on the code with her as well.
 
 ## Results
 
