@@ -65,7 +65,7 @@ So the main thing we learned here is that low pLDDT doesn't always mean "floppy"
 ## Authors
 
 - **Manan Khurana** ([@Mkhurana3](https://github.com/Mkhurana3)), biology and Python: came up with the question from Class 12 genetics, worked out the biology behind it (the genetic code, mutations, amino acid properties, protein folding), chose the proteins for the AlphaFold part, and interpreted the results. Also worked on the Python side with Antara: running and checking the simulation, and the AlphaFold analysis in notebook 03.
-- **Antara Bhattacharya** ([@antarahere](https://github.com/antarahere)), coding: worked on the Python side, i.e. the functions in `geneticcode.py` and `alphafold.py`, the tests, the 100,000-code simulation, the notebooks and the plots.
+- **Antara Bhattacharya** ([@antarahere](https://github.com/antarahere)), coding: worked on the Python side, i.e. the functions in `geneticcode.py` and `alphafold.py`, the tests, the 100,000-code simulation, the notebooks and the plots. This covers turning the genetic code into a lookup table, listing all 576 single-letter mutations, scoring a code's error cost with NumPy, building the fake codes that keep the real code's codon blocks, reading pLDDT scores out of AlphaFold's PDB files, and the test that checks the real code scores 5.194, the same as the 1991 paper.
 
 ## Notebooks
 
