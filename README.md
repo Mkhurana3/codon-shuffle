@@ -64,7 +64,7 @@ So the main thing we learned here is that low pLDDT doesn't always mean "floppy"
 
 ## Authors
 
-- **Manan Khurana** ([@Mkhurana3](https://github.com/Mkhurana3)), biology: came up with the question from Class 12 genetics, worked out the biology behind it (the genetic code, mutations, amino acid properties, protein folding), chose the proteins for the AlphaFold part, and interpreted the results.
+- **Manan Khurana** ([@Mkhurana3](https://github.com/Mkhurana3)), biology and Python: came up with the question from Class 12 genetics, worked out the biology behind it (the genetic code, mutations, amino acid properties, protein folding), chose the proteins for the AlphaFold part, and interpreted the results. Also worked on the Python side with Antara: running and checking the simulation, and the AlphaFold analysis in notebook 03.
 - **Antara Bhattacharya** ([@antarahere](https://github.com/antarahere)), coding: worked on the Python side, i.e. the functions in `geneticcode.py` and `alphafold.py`, the tests, the 100,000-code simulation, the notebooks and the plots.
 
 ## Notebooks
@@ -101,13 +101,11 @@ jupyter notebook
 
 Papers
 - Haig D, Hurst LD (1991). A quantitative measure of error minimization in the genetic code. *J Mol Evol* 33:412-417.
-- Freeland SJ, Hurst LD (1998). The genetic code is one in a million. *J Mol Evol* 47:238-248.
 - Woese CR et al. (1966). The molecular basis for the genetic code. *PNAS* 55:966-974. (polar requirement values)
 - Kyte J, Doolittle RF (1982). A simple method for displaying the hydropathic character of a protein. *J Mol Biol* 157:105-132. (hydropathy values)
 - Jumper J et al. (2021). Highly accurate protein structure prediction with AlphaFold. *Nature* 596:583-589.
 
 Books
 - Alberts B et al. *Molecular Biology of the Cell*, 7th ed. W. W. Norton, 2022. (ch. 6: the genetic code and mutations)
-- Nelson DL, Cox MM. *Lehninger Principles of Biochemistry*, 8th ed. Macmillan, 2021. (amino acids and protein structure)
 - Downey AB. *Think Stats*, 3rd ed. O'Reilly, 2025. (testing ideas with simulation in Python)
 - VanderPlas J. *Python Data Science Handbook*, 2nd ed. O'Reilly, 2022. (pandas and matplotlib)
